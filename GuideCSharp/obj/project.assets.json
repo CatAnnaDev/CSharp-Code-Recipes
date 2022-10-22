@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/psyko/Projects/GuideCSharp/GuideCSharp/GuideCSharp.csproj",
+      "projectUniqueName": "/Users/psyko/Downloads/GuideCSharp-main/GuideCSharp/GuideCSharp.csproj",
       "projectName": "GuideCSharp",
-      "projectPath": "/Users/psyko/Projects/GuideCSharp/GuideCSharp/GuideCSharp.csproj",
+      "projectPath": "/Users/psyko/Downloads/GuideCSharp-main/GuideCSharp/GuideCSharp.csproj",
       "packagesPath": "/Users/psyko/.nuget/packages/",
-      "outputPath": "/Users/psyko/Projects/GuideCSharp/GuideCSharp/obj/",
+      "outputPath": "/Users/psyko/Downloads/GuideCSharp-main/GuideCSharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/psyko/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400-preview.22330.6/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100-rc.1.22431.12/RuntimeIdentifierGraph.json"
       }
     }
   }
