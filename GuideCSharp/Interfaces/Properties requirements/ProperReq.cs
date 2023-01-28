@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace GuideCSharp.Interfaces.Propertiesrequirements
 {
 	public class ProperReq
