@@ -5,12 +5,12 @@ namespace GuideCSharp.Functions.withoutanyparameters
 	{
 		public WithoutAnyParam()
 		{
-            void SayGoodby()
+            void SayGoodbye()
             {
-                Console.WriteLine("Goodby!");
+                Console.WriteLine("Goodbye!");
             }
 
-            SayGoodby();
+            SayGoodbye();
         }
 	}
 }

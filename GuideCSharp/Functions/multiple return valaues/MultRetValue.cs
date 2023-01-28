@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+
 namespace GuideCSharp.Functions.multiplereturnvalaues
 {
 	public class MultRetValue

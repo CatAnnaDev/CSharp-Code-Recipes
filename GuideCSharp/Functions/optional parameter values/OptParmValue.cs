@@ -5,15 +5,15 @@ namespace GuideCSharp.Functions.optionalparametervalues
 	{
 		public OptParmValue()
 		{
-            void SayGoodby(string message = "Goodby!")
+            void SayGoodbye(string message = "Goodbye!")
             {
                 Console.WriteLine(message);
             }
 
-            SayGoodby();
-            //printed "Goodby!"
+            SayGoodbye();
+            //printed "Goodbye!"
 
-            SayGoodby("see you");
+            SayGoodbye("see you");
             //printed "see you"
         }
     }
