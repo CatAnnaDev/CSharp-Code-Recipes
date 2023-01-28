@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+
 namespace GuideCSharp.Algorithms.Search.InterpolationSearch
 {
     public class InterpolationSearch
