@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace GuideCSharp.ArraysandCollections.Dictionary.GetValuebykey
 {
 	public class GetValue
@@ -11,7 +13,7 @@ namespace GuideCSharp.ArraysandCollections.Dictionary.GetValuebykey
             //one is "one"
 
             string two = dic[2];
-            //two is "two"
+            //two is null
 
             string three = dic[3]; //<-Error
 

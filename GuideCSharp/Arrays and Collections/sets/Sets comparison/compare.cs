@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
 namespace GuideCSharp.ArraysandCollections.sets.Setscomparison
 {
 	public class compare

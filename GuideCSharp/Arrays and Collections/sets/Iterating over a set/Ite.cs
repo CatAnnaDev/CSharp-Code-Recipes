@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace GuideCSharp.ArraysandCollections.sets.Iteratingoveraset
 {
 	public class Ite

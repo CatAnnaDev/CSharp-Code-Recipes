@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace GuideCSharp.ArraysandCollections.Dictionary.SortedDictionary
 {
 	public class sorted
@@ -11,8 +13,7 @@ namespace GuideCSharp.ArraysandCollections.Dictionary.SortedDictionary
             foreach (var key in dic.Keys)
             {
                 var value = dic[key];
-                str += (str == "" ? "" : ", ") +
-                    $"{{ {key}, \"{value}\" }}";
+                str += (str == "" ? "" : ", ") + $"{{ {key}, \"{value}\" }}";
             }
             //str is "{ 1, "one" }, { 2, "two" }, { 3, "three" }"
             //sorted by key

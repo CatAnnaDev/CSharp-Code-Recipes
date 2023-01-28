@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace GuideCSharp.ArraysandCollections.Dictionary.Iteratingoveradictionary
 {
 	public class Ite

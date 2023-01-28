@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace GuideCSharp.ArraysandCollections.Dictionary.Checkingofpresenceofakey
 {
 	public class Checking
