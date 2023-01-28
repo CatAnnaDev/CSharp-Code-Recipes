@@ -5,8 +5,8 @@ namespace GuideCSharp.Classes.Methods.Optionalparatersvalues
 	{
 		public OptParamVal()
 		{
-            Greeting.SayGoodby();
-            //prints "Goodby!"
+            Greeting.SayGoodbye();
+            //prints "Goodbye!"
 
             Greeting.SayHello("Hi");
             //prints "Hi"
@@ -14,7 +14,7 @@ namespace GuideCSharp.Classes.Methods.Optionalparatersvalues
     }
     class Greeting
     {
-        public static void SayGoodby(string message = "Goodby!")
+        public static void SayGoodbye(string message = "Goodbye!")
         {
             Console.WriteLine(message);
         }

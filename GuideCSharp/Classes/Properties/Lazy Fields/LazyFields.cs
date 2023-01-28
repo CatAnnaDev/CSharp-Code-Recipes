@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Threading;
+
 namespace GuideCSharp.Classes.Properties.LazyFields
 {
 	public class LazyFields

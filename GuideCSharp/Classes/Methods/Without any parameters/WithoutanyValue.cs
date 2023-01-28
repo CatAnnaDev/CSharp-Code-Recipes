@@ -6,15 +6,15 @@ namespace GuideCSharp.Classes.Methods.Withoutanyparameters
 		public WithoutanyValue()
 		{
             var greeting = new Greeting();
-            greeting.SayGoodby();
+            greeting.SayGoodbye();
         }
 	}
 
     class Greeting
     {
-        public void SayGoodby()
+        public void SayGoodbye()
         {
-            Console.WriteLine("Goodby!");
+            Console.WriteLine("Goodbye!");
         }
     }
 }

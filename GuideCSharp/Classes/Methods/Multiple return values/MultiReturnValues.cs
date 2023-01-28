@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+
 namespace GuideCSharp.Classes.Methods.Multiplereturnvalues
 {
 	public class MultiReturnValues
