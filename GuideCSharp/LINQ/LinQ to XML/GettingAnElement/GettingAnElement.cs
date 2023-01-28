@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Xml.Linq;
+using System.Linq;
 
 namespace GuideCSharp.LINQ.LinQtoXML.GettingAnElement
 {

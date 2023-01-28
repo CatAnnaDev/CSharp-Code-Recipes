@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+
 namespace GuideCSharp.LINQ.Grouping.GroupByAndSelect
 {
 	public class GroupByAndSelect

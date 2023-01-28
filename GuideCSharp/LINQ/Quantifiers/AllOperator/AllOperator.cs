@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+
 namespace GuideCSharp.LINQ.Quantifiers.AllOperator
 {
 	public class AllOperator

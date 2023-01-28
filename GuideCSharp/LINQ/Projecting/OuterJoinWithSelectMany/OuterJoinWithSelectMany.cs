@@ -1,6 +1,7 @@
 ﻿using System;
 using GuideCSharp.LINQ.Projecting.InnerjoinWithSelectMany;
 using System.Text.Json;
+using System.Linq;
 
 namespace GuideCSharp.LINQ.Projecting.OuterJoinWithSelectMany
 {

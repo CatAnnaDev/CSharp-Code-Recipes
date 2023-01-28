@@ -1,5 +1,6 @@
-﻿
-using System;
+﻿using System;
+using System.Linq;
+
 namespace GuideCSharp.LINQ.AggregationMethods.Aggregateoperator
 {
 	public class AggregateOperator

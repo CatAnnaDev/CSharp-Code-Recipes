@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+
 namespace GuideCSharp.LINQ.AggregationMethods.Minoperator
 {
 	public class MinOperator

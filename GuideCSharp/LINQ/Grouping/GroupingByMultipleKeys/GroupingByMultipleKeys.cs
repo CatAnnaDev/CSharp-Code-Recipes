@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+
 namespace GuideCSharp.LINQ.Grouping.GroupingByMultipleKeys
 {
 	public class GroupingByMultipleKeys

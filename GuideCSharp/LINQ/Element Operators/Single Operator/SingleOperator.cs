@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+
 namespace GuideCSharp.LINQ.ElementOperators.SingleOperator
 {
 	public class SingleOperator
