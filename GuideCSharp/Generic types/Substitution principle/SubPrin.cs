@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace GuideCSharp.Generictypes.Substitutionprinciple
 {
 	public class SubPrin
