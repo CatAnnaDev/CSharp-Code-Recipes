@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace GuideCSharp.Initializingoftypes.Collections.set
 {
 	public class CollHashSet
