@@ -10,8 +10,6 @@ namespace GuideCSharp.Controlflow.Conditionalstatements.ifelsestatements.isnotva
 			{
                 location = "Equator";
             }
-
-
         }
 	}
 }

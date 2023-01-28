@@ -3,10 +3,9 @@ namespace GuideCSharp.Controlflow.Conditionalstatements.switchcasestatement.Case
 {
 	public class CaseWhenCondition
 	{
-		public CaseWhenCondition()
+        record Tiger(int Age);
+        public CaseWhenCondition()
 		{
-            record Tiger(int Age);
-
             string Describe(object obj)
             {
                 //C# 8 feature
