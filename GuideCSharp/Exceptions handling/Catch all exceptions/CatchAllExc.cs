@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace GuideCSharp.Exceptionshandling.Catchallexceptions
 {
 	public class CatchAllExc
