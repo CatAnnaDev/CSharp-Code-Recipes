@@ -1,5 +1,4 @@
 ﻿using System;
-using GuideCSharp.Classes.Properties.Typeproperties;
 
 namespace GuideCSharp.Enumerations.Basemembervalue
 {
