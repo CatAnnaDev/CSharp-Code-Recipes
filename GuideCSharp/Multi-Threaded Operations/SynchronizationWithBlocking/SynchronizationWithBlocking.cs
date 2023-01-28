@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Threading;
+
 namespace GuideCSharp.MultiThreadedOperations.SynchronizationWithBlocking
 {
 	public class SynchronizationWithBlocking

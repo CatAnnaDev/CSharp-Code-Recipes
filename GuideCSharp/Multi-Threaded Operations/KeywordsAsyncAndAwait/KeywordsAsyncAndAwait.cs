@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Threading.Tasks;
+using System.Threading;
+
 namespace GuideCSharp.MultiThreadedOperations.KeywordsAsyncAndAwait
 {
 	public class KeywordsAsyncAndAwait

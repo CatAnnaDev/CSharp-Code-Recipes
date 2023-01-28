@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Data.SqlTypes;
+using System.Threading;
 
 namespace GuideCSharp.MultiThreadedOperations.AsyncCallWithAResult
 {
